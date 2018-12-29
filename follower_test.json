@@ -1,0 +1,718 @@
+{
+    "success": true,
+    "result": {
+        "data": {
+            "content": {
+                "data": {
+                    "title": "Followers",
+                    "totalCount": 387,
+                    "listItems": [
+                        {
+                            "data": {
+                                "displayName": "Li Rendong",
+                                "profile": {
+                                    "professionalInstitution": {
+                                        "professionalInstitutionName": "Chinese Academy of Sciences",
+                                        "professionalInstitutionUrl": "institution/Chinese_Academy_of_Sciences"
+                                    }
+                                },
+                                "professionalInstitutionName": "Chinese Academy of Sciences",
+                                "professionalInstitutionUrl": "institution/Chinese_Academy_of_Sciences",
+                                "url": "profile/Li_Rendong",
+                                "imageUrl": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+                                "imageSize": "m",
+                                "imageHeight": 50,
+                                "imageWidth": 50,
+                                "imageAlt": "Li Rendong at Chinese Academy of Sciences",
+                                "enableFollowButton": true,
+                                "enableHideButton": false,
+                                "enableConnectionButton": false,
+                                "followButton": null,
+                                "isClaimedAuthor": true,
+                                "hasExtraContainer": false,
+                                "showStatsWidgets": false,
+                                "statsWidgets": [],
+                                "additionalCssClasses": null,
+                                "contentWidgetsRight": [],
+                                "contentWidgetsMain": [],
+                                "showHideButton": false,
+                                "accountKey": "Li_Rendong",
+                                "hasInfoPopup": false,
+                                "showRecommendationInfoOutput": false,
+                                "hasTeaserPopup": true,
+                                "showContactAuthorButton": false,
+                                "widgetId": "rgw3_5c1e23f3e47ab"
+                            },
+                            "clientRenderedOnly": false,
+                            "id": "rgw3_5c1e23f3e47ab",
+                            "partials": [],
+                            "templateName": "application/stubs/PeopleItem.html",
+                            "templateExtensions": [
+                                "generalHelpers"
+                            ],
+                            "attrs": [],
+                            "widgetUrl": "https://www.researchgate.net/application.PeopleAccountItem.html?entityId=6521287&imageSize=m&enableFollowButton=1&showHideButton=0&showConnectionButton=0&showAlreadyFollowingIfAlreadyFollowing=0&popUpPosition=right&popUpPush=10&showPopup=0&showSkills=0&showMteKeywords=0&showDepartment=0",
+                            "viewClass": "views.application.PeopleItemView",
+                            "yuiModules": [
+                                "rg.views.application.PeopleItemView"
+                            ],
+                            "stylesheets": [],
+                            "_isYUI": true
+                        },
+                        {
+                            "data": {
+                                "displayName": "Qi Feng",
+                                "profile": {
+                                    "professionalInstitution": {
+                                        "professionalInstitutionName": "Wuhan University",
+                                        "professionalInstitutionUrl": "institution/Wuhan_University"
+                                    }
+                                },
+                                "professionalInstitutionName": "Wuhan University",
+                                "professionalInstitutionUrl": "institution/Wuhan_University",
+                                "url": "profile/Qi_Feng19",
+                                "imageUrl": "https://i1.rgstatic.net/ii/profile.image/279066163859465-1443545966487_Q64/Qi_Feng19.jpg",
+                                "imageSize": "m",
+                                "imageHeight": 50,
+                                "imageWidth": 50,
+                                "imageAlt": "Qi Feng at Wuhan University",
+                                "enableFollowButton": true,
+                                "enableHideButton": false,
+                                "enableConnectionButton": false,
+                                "followButton": null,
+                                "isClaimedAuthor": true,
+                                "hasExtraContainer": false,
+                                "showStatsWidgets": false,
+                                "statsWidgets": [],
+                                "additionalCssClasses": null,
+                                "contentWidgetsRight": [],
+                                "contentWidgetsMain": [],
+                                "showHideButton": false,
+                                "accountKey": "Qi_Feng19",
+                                "hasInfoPopup": false,
+                                "showRecommendationInfoOutput": false,
+                                "hasTeaserPopup": true,
+                                "showContactAuthorButton": false,
+                                "widgetId": "rgw4_5c1e23f3e47ab"
+                            },
+                            "clientRenderedOnly": false,
+                            "id": "rgw4_5c1e23f3e47ab",
+                            "partials": [],
+                            "templateName": "application/stubs/PeopleItem.html",
+                            "templateExtensions": [
+                                "generalHelpers"
+                            ],
+                            "attrs": [],
+                            "widgetUrl": "https://www.researchgate.net/application.PeopleAccountItem.html?entityId=6414908&imageSize=m&enableFollowButton=1&showHideButton=0&showConnectionButton=0&showAlreadyFollowingIfAlreadyFollowing=0&popUpPosition=right&popUpPush=10&showPopup=0&showSkills=0&showMteKeywords=0&showDepartment=0",
+                            "viewClass": "views.application.PeopleItemView",
+                            "yuiModules": [
+                                "rg.views.application.PeopleItemView"
+                            ],
+                            "stylesheets": [],
+                            "_isYUI": true
+                        },
+                        {
+                            "data": {
+                                "displayName": "Sylvie Ayimpam",
+                                "profile": {
+                                    "professionalInstitution": {
+                                        "professionalInstitutionName": "Aix-Marseille Université, Institut des Mondes Africains UMR 8171",
+                                        "professionalInstitutionUrl": false
+                                    }
+                                },
+                                "professionalInstitutionName": "Aix-Marseille Université, Institut des Mondes Africains UMR 8171",
+                                "professionalInstitutionUrl": false,
+                                "url": "profile/Sylvie_Ayimpam",
+                                "imageUrl": "https://i1.rgstatic.net/ii/profile.image/273809198546946-1442292608467_Q64/Sylvie_Ayimpam.jpg",
+                                "imageSize": "m",
+                                "imageHeight": 50,
+                                "imageWidth": 50,
+                                "imageAlt": "Sylvie Ayimpam at Aix-Marseille Université, Institut des Mondes Africains UMR 8171",
+                                "enableFollowButton": true,
+                                "enableHideButton": false,
+                                "enableConnectionButton": false,
+                                "followButton": null,
+                                "isClaimedAuthor": true,
+                                "hasExtraContainer": false,
+                                "showStatsWidgets": false,
+                                "statsWidgets": [],
+                                "additionalCssClasses": null,
+                                "contentWidgetsRight": [],
+                                "contentWidgetsMain": [],
+                                "showHideButton": false,
+                                "accountKey": "Sylvie_Ayimpam",
+                                "hasInfoPopup": false,
+                                "showRecommendationInfoOutput": false,
+                                "hasTeaserPopup": true,
+                                "showContactAuthorButton": false,
+                                "widgetId": "rgw5_5c1e23f3e47ab"
+                            },
+                            "clientRenderedOnly": false,
+                            "id": "rgw5_5c1e23f3e47ab",
+                            "partials": [],
+                            "templateName": "application/stubs/PeopleItem.html",
+                            "templateExtensions": [
+                                "generalHelpers"
+                            ],
+                            "attrs": [],
+                            "widgetUrl": "https://www.researchgate.net/application.PeopleAccountItem.html?entityId=5274676&imageSize=m&enableFollowButton=1&showHideButton=0&showConnectionButton=0&showAlreadyFollowingIfAlreadyFollowing=0&popUpPosition=right&popUpPush=10&showPopup=0&showSkills=0&showMteKeywords=0&showDepartment=0",
+                            "viewClass": "views.application.PeopleItemView",
+                            "yuiModules": [
+                                "rg.views.application.PeopleItemView"
+                            ],
+                            "stylesheets": [],
+                            "_isYUI": true
+                        },
+                        {
+                            "data": {
+                                "displayName": "Chunhui Li",
+                                "profile": {
+                                    "professionalInstitution": {
+                                        "professionalInstitutionName": "Wuhan University",
+                                        "professionalInstitutionUrl": "institution/Wuhan_University"
+                                    }
+                                },
+                                "professionalInstitutionName": "Wuhan University",
+                                "professionalInstitutionUrl": "institution/Wuhan_University",
+                                "url": "profile/Chunhui_Li7",
+                                "imageUrl": "https://i1.rgstatic.net/ii/profile.image/278945925746699-1443517299276_Q64/Chunhui_Li7.jpg",
+                                "imageSize": "m",
+                                "imageHeight": 50,
+                                "imageWidth": 50,
+                                "imageAlt": "Chunhui Li at Wuhan University",
+                                "enableFollowButton": true,
+                                "enableHideButton": false,
+                                "enableConnectionButton": false,
+                                "followButton": null,
+                                "isClaimedAuthor": true,
+                                "hasExtraContainer": false,
+                                "showStatsWidgets": false,
+                                "statsWidgets": [],
+                                "additionalCssClasses": null,
+                                "contentWidgetsRight": [],
+                                "contentWidgetsMain": [],
+                                "showHideButton": false,
+                                "accountKey": "Chunhui_Li7",
+                                "hasInfoPopup": false,
+                                "showRecommendationInfoOutput": false,
+                                "hasTeaserPopup": true,
+                                "showContactAuthorButton": false,
+                                "widgetId": "rgw6_5c1e23f3e47ab"
+                            },
+                            "clientRenderedOnly": false,
+                            "id": "rgw6_5c1e23f3e47ab",
+                            "partials": [],
+                            "templateName": "application/stubs/PeopleItem.html",
+                            "templateExtensions": [
+                                "generalHelpers"
+                            ],
+                            "attrs": [],
+                            "widgetUrl": "https://www.researchgate.net/application.PeopleAccountItem.html?entityId=6142552&imageSize=m&enableFollowButton=1&showHideButton=0&showConnectionButton=0&showAlreadyFollowingIfAlreadyFollowing=0&popUpPosition=right&popUpPush=10&showPopup=0&showSkills=0&showMteKeywords=0&showDepartment=0",
+                            "viewClass": "views.application.PeopleItemView",
+                            "yuiModules": [
+                                "rg.views.application.PeopleItemView"
+                            ],
+                            "stylesheets": [],
+                            "_isYUI": true
+                        },
+                        {
+                            "data": {
+                                "displayName": "Muna ahmed Al saadoon",
+                                "profile": {
+                                    "professionalInstitution": {
+                                        "professionalInstitutionName": "Sultan Qaboos University",
+                                        "professionalInstitutionUrl": "institution/Sultan_Qaboos_University"
+                                    }
+                                },
+                                "professionalInstitutionName": "Sultan Qaboos University",
+                                "professionalInstitutionUrl": "institution/Sultan_Qaboos_University",
+                                "url": "profile/Muna_Al_Saadoon",
+                                "imageUrl": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+                                "imageSize": "m",
+                                "imageHeight": 50,
+                                "imageWidth": 50,
+                                "imageAlt": "Muna ahmed Al saadoon at Sultan Qaboos University",
+                                "enableFollowButton": true,
+                                "enableHideButton": false,
+                                "enableConnectionButton": false,
+                                "followButton": null,
+                                "isClaimedAuthor": true,
+                                "hasExtraContainer": false,
+                                "showStatsWidgets": false,
+                                "statsWidgets": [],
+                                "additionalCssClasses": null,
+                                "contentWidgetsRight": [],
+                                "contentWidgetsMain": [],
+                                "showHideButton": false,
+                                "accountKey": "Muna_Al_Saadoon",
+                                "hasInfoPopup": false,
+                                "showRecommendationInfoOutput": false,
+                                "hasTeaserPopup": true,
+                                "showContactAuthorButton": false,
+                                "widgetId": "rgw7_5c1e23f3e47ab"
+                            },
+                            "clientRenderedOnly": false,
+                            "id": "rgw7_5c1e23f3e47ab",
+                            "partials": [],
+                            "templateName": "application/stubs/PeopleItem.html",
+                            "templateExtensions": [
+                                "generalHelpers"
+                            ],
+                            "attrs": [],
+                            "widgetUrl": "https://www.researchgate.net/application.PeopleAccountItem.html?entityId=4831125&imageSize=m&enableFollowButton=1&showHideButton=0&showConnectionButton=0&showAlreadyFollowingIfAlreadyFollowing=0&popUpPosition=right&popUpPush=10&showPopup=0&showSkills=0&showMteKeywords=0&showDepartment=0",
+                            "viewClass": "views.application.PeopleItemView",
+                            "yuiModules": [
+                                "rg.views.application.PeopleItemView"
+                            ],
+                            "stylesheets": [],
+                            "_isYUI": true
+                        },
+                        {
+                            "data": {
+                                "displayName": "Alan Foster",
+                                "profile": {
+                                    "professionalInstitution": {
+                                        "professionalInstitutionName": "Royal Holloway, University of London",
+                                        "professionalInstitutionUrl": "institution/Royal_Holloway_University_of_London"
+                                    }
+                                },
+                                "professionalInstitutionName": "Royal Holloway, University of London",
+                                "professionalInstitutionUrl": "institution/Royal_Holloway_University_of_London",
+                                "url": "profile/Alan_Foster4",
+                                "imageUrl": "https://i1.rgstatic.net/ii/profile.image/421526806765569-1477511230390_Q64/Alan_Foster4.jpg",
+                                "imageSize": "m",
+                                "imageHeight": 50,
+                                "imageWidth": 50,
+                                "imageAlt": "Alan Foster at Royal Holloway, University of London",
+                                "enableFollowButton": true,
+                                "enableHideButton": false,
+                                "enableConnectionButton": false,
+                                "followButton": null,
+                                "isClaimedAuthor": true,
+                                "hasExtraContainer": false,
+                                "showStatsWidgets": false,
+                                "statsWidgets": [],
+                                "additionalCssClasses": null,
+                                "contentWidgetsRight": [],
+                                "contentWidgetsMain": [],
+                                "showHideButton": false,
+                                "accountKey": "Alan_Foster4",
+                                "hasInfoPopup": false,
+                                "showRecommendationInfoOutput": false,
+                                "hasTeaserPopup": true,
+                                "showContactAuthorButton": false,
+                                "widgetId": "rgw8_5c1e23f3e47ab"
+                            },
+                            "clientRenderedOnly": false,
+                            "id": "rgw8_5c1e23f3e47ab",
+                            "partials": [],
+                            "templateName": "application/stubs/PeopleItem.html",
+                            "templateExtensions": [
+                                "generalHelpers"
+                            ],
+                            "attrs": [],
+                            "widgetUrl": "https://www.researchgate.net/application.PeopleAccountItem.html?entityId=5798186&imageSize=m&enableFollowButton=1&showHideButton=0&showConnectionButton=0&showAlreadyFollowingIfAlreadyFollowing=0&popUpPosition=right&popUpPush=10&showPopup=0&showSkills=0&showMteKeywords=0&showDepartment=0",
+                            "viewClass": "views.application.PeopleItemView",
+                            "yuiModules": [
+                                "rg.views.application.PeopleItemView"
+                            ],
+                            "stylesheets": [],
+                            "_isYUI": true
+                        },
+                        {
+                            "data": {
+                                "displayName": "Hao Li",
+                                "profile": {
+                                    "professionalInstitution": {
+                                        "professionalInstitutionName": "Wuhan University",
+                                        "professionalInstitutionUrl": "institution/Wuhan_University"
+                                    }
+                                },
+                                "professionalInstitutionName": "Wuhan University",
+                                "professionalInstitutionUrl": "institution/Wuhan_University",
+                                "url": "profile/Hao_Li16",
+                                "imageUrl": "https://i1.rgstatic.net/ii/profile.image/474255574999040-1490082748003_Q64/Hao_Li16.jpg",
+                                "imageSize": "m",
+                                "imageHeight": 50,
+                                "imageWidth": 50,
+                                "imageAlt": "Hao Li at Wuhan University",
+                                "enableFollowButton": true,
+                                "enableHideButton": false,
+                                "enableConnectionButton": false,
+                                "followButton": null,
+                                "isClaimedAuthor": true,
+                                "hasExtraContainer": false,
+                                "showStatsWidgets": false,
+                                "statsWidgets": [],
+                                "additionalCssClasses": null,
+                                "contentWidgetsRight": [],
+                                "contentWidgetsMain": [],
+                                "showHideButton": false,
+                                "accountKey": "Hao_Li16",
+                                "hasInfoPopup": false,
+                                "showRecommendationInfoOutput": false,
+                                "hasTeaserPopup": true,
+                                "showContactAuthorButton": false,
+                                "widgetId": "rgw9_5c1e23f3e47ab"
+                            },
+                            "clientRenderedOnly": false,
+                            "id": "rgw9_5c1e23f3e47ab",
+                            "partials": [],
+                            "templateName": "application/stubs/PeopleItem.html",
+                            "templateExtensions": [
+                                "generalHelpers"
+                            ],
+                            "attrs": [],
+                            "widgetUrl": "https://www.researchgate.net/application.PeopleAccountItem.html?entityId=2304926&imageSize=m&enableFollowButton=1&showHideButton=0&showConnectionButton=0&showAlreadyFollowingIfAlreadyFollowing=0&popUpPosition=right&popUpPush=10&showPopup=0&showSkills=0&showMteKeywords=0&showDepartment=0",
+                            "viewClass": "views.application.PeopleItemView",
+                            "yuiModules": [
+                                "rg.views.application.PeopleItemView"
+                            ],
+                            "stylesheets": [],
+                            "_isYUI": true
+                        },
+                        {
+                            "data": {
+                                "displayName": "Fengjia Yi",
+                                "profile": {
+                                    "professionalInstitution": {
+                                        "professionalInstitutionName": "Chinese Academy of Sciences",
+                                        "professionalInstitutionUrl": "institution/Chinese_Academy_of_Sciences"
+                                    }
+                                },
+                                "professionalInstitutionName": "Chinese Academy of Sciences",
+                                "professionalInstitutionUrl": "institution/Chinese_Academy_of_Sciences",
+                                "url": "profile/Fengjia_Yi",
+                                "imageUrl": "https://i1.rgstatic.net/ii/profile.image/278756070576142-1443472034609_Q64/Fengjia_Yi.jpg",
+                                "imageSize": "m",
+                                "imageHeight": 50,
+                                "imageWidth": 50,
+                                "imageAlt": "Fengjia Yi at Chinese Academy of Sciences",
+                                "enableFollowButton": true,
+                                "enableHideButton": false,
+                                "enableConnectionButton": false,
+                                "followButton": null,
+                                "isClaimedAuthor": true,
+                                "hasExtraContainer": false,
+                                "showStatsWidgets": false,
+                                "statsWidgets": [],
+                                "additionalCssClasses": null,
+                                "contentWidgetsRight": [],
+                                "contentWidgetsMain": [],
+                                "showHideButton": false,
+                                "accountKey": "Fengjia_Yi",
+                                "hasInfoPopup": false,
+                                "showRecommendationInfoOutput": false,
+                                "hasTeaserPopup": true,
+                                "showContactAuthorButton": false,
+                                "widgetId": "rgw10_5c1e23f3e47ab"
+                            },
+                            "clientRenderedOnly": false,
+                            "id": "rgw10_5c1e23f3e47ab",
+                            "partials": [],
+                            "templateName": "application/stubs/PeopleItem.html",
+                            "templateExtensions": [
+                                "generalHelpers"
+                            ],
+                            "attrs": [],
+                            "widgetUrl": "https://www.researchgate.net/application.PeopleAccountItem.html?entityId=5709500&imageSize=m&enableFollowButton=1&showHideButton=0&showConnectionButton=0&showAlreadyFollowingIfAlreadyFollowing=0&popUpPosition=right&popUpPush=10&showPopup=0&showSkills=0&showMteKeywords=0&showDepartment=0",
+                            "viewClass": "views.application.PeopleItemView",
+                            "yuiModules": [
+                                "rg.views.application.PeopleItemView"
+                            ],
+                            "stylesheets": [],
+                            "_isYUI": true
+                        },
+                        {
+                            "data": {
+                                "displayName": "Banghua Chen",
+                                "profile": {
+                                    "professionalInstitution": {
+                                        "professionalInstitutionName": "Wuhan CDC",
+                                        "professionalInstitutionUrl": false
+                                    }
+                                },
+                                "professionalInstitutionName": "Wuhan CDC",
+                                "professionalInstitutionUrl": false,
+                                "url": "profile/Banghua_Chen",
+                                "imageUrl": "https://i1.rgstatic.net/ii/profile.image/272308392689672-1441934788385_Q64/Banghua_Chen.jpg",
+                                "imageSize": "m",
+                                "imageHeight": 50,
+                                "imageWidth": 50,
+                                "imageAlt": "Banghua Chen at Wuhan CDC",
+                                "enableFollowButton": true,
+                                "enableHideButton": false,
+                                "enableConnectionButton": false,
+                                "followButton": null,
+                                "isClaimedAuthor": true,
+                                "hasExtraContainer": false,
+                                "showStatsWidgets": false,
+                                "statsWidgets": [],
+                                "additionalCssClasses": null,
+                                "contentWidgetsRight": [],
+                                "contentWidgetsMain": [],
+                                "showHideButton": false,
+                                "accountKey": "Banghua_Chen",
+                                "hasInfoPopup": false,
+                                "showRecommendationInfoOutput": false,
+                                "hasTeaserPopup": true,
+                                "showContactAuthorButton": false,
+                                "widgetId": "rgw11_5c1e23f3e47ab"
+                            },
+                            "clientRenderedOnly": false,
+                            "id": "rgw11_5c1e23f3e47ab",
+                            "partials": [],
+                            "templateName": "application/stubs/PeopleItem.html",
+                            "templateExtensions": [
+                                "generalHelpers"
+                            ],
+                            "attrs": [],
+                            "widgetUrl": "https://www.researchgate.net/application.PeopleAccountItem.html?entityId=1398063&imageSize=m&enableFollowButton=1&showHideButton=0&showConnectionButton=0&showAlreadyFollowingIfAlreadyFollowing=0&popUpPosition=right&popUpPush=10&showPopup=0&showSkills=0&showMteKeywords=0&showDepartment=0",
+                            "viewClass": "views.application.PeopleItemView",
+                            "yuiModules": [
+                                "rg.views.application.PeopleItemView"
+                            ],
+                            "stylesheets": [],
+                            "_isYUI": true
+                        },
+                        {
+                            "data": {
+                                "displayName": "Juan Qiu",
+                                "profile": {
+                                    "professionalInstitution": {
+                                        "professionalInstitutionName": "Chinese Academy of Sciences",
+                                        "professionalInstitutionUrl": "institution/Chinese_Academy_of_Sciences"
+                                    }
+                                },
+                                "professionalInstitutionName": "Chinese Academy of Sciences",
+                                "professionalInstitutionUrl": "institution/Chinese_Academy_of_Sciences",
+                                "url": "profile/Juan_Qiu2",
+                                "imageUrl": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+                                "imageSize": "m",
+                                "imageHeight": 50,
+                                "imageWidth": 50,
+                                "imageAlt": "Juan Qiu at Chinese Academy of Sciences",
+                                "enableFollowButton": true,
+                                "enableHideButton": false,
+                                "enableConnectionButton": false,
+                                "followButton": null,
+                                "isClaimedAuthor": true,
+                                "hasExtraContainer": false,
+                                "showStatsWidgets": false,
+                                "statsWidgets": [],
+                                "additionalCssClasses": null,
+                                "contentWidgetsRight": [],
+                                "contentWidgetsMain": [],
+                                "showHideButton": false,
+                                "accountKey": "Juan_Qiu2",
+                                "hasInfoPopup": false,
+                                "showRecommendationInfoOutput": false,
+                                "hasTeaserPopup": true,
+                                "showContactAuthorButton": false,
+                                "widgetId": "rgw12_5c1e23f3e47ab"
+                            },
+                            "clientRenderedOnly": false,
+                            "id": "rgw12_5c1e23f3e47ab",
+                            "partials": [],
+                            "templateName": "application/stubs/PeopleItem.html",
+                            "templateExtensions": [
+                                "generalHelpers"
+                            ],
+                            "attrs": [],
+                            "widgetUrl": "https://www.researchgate.net/application.PeopleAccountItem.html?entityId=4830935&imageSize=m&enableFollowButton=1&showHideButton=0&showConnectionButton=0&showAlreadyFollowingIfAlreadyFollowing=0&popUpPosition=right&popUpPush=10&showPopup=0&showSkills=0&showMteKeywords=0&showDepartment=0",
+                            "viewClass": "views.application.PeopleItemView",
+                            "yuiModules": [
+                                "rg.views.application.PeopleItemView"
+                            ],
+                            "stylesheets": [],
+                            "_isYUI": true
+                        },
+                        {
+                            "data": {
+                                "displayName": "Huiyun Xiang",
+                                "profile": {
+                                    "professionalInstitution": {
+                                        "professionalInstitutionName": "The Ohio State University",
+                                        "professionalInstitutionUrl": "institution/The_Ohio_State_University"
+                                    }
+                                },
+                                "professionalInstitutionName": "The Ohio State University",
+                                "professionalInstitutionUrl": "institution/The_Ohio_State_University",
+                                "url": "profile/Huiyun_Xiang",
+                                "imageUrl": "https://i1.rgstatic.net/ii/profile.image/272431822667801-1441964216482_Q64/Huiyun_Xiang.jpg",
+                                "imageSize": "m",
+                                "imageHeight": 50,
+                                "imageWidth": 50,
+                                "imageAlt": "Huiyun Xiang at The Ohio State University",
+                                "enableFollowButton": true,
+                                "enableHideButton": false,
+                                "enableConnectionButton": false,
+                                "followButton": null,
+                                "isClaimedAuthor": true,
+                                "hasExtraContainer": false,
+                                "showStatsWidgets": false,
+                                "statsWidgets": [],
+                                "additionalCssClasses": null,
+                                "contentWidgetsRight": [],
+                                "contentWidgetsMain": [],
+                                "showHideButton": false,
+                                "accountKey": "Huiyun_Xiang",
+                                "hasInfoPopup": false,
+                                "showRecommendationInfoOutput": false,
+                                "hasTeaserPopup": true,
+                                "showContactAuthorButton": false,
+                                "widgetId": "rgw13_5c1e23f3e47ab"
+                            },
+                            "clientRenderedOnly": false,
+                            "id": "rgw13_5c1e23f3e47ab",
+                            "partials": [],
+                            "templateName": "application/stubs/PeopleItem.html",
+                            "templateExtensions": [
+                                "generalHelpers"
+                            ],
+                            "attrs": [],
+                            "widgetUrl": "https://www.researchgate.net/application.PeopleAccountItem.html?entityId=1725513&imageSize=m&enableFollowButton=1&showHideButton=0&showConnectionButton=0&showAlreadyFollowingIfAlreadyFollowing=0&popUpPosition=right&popUpPush=10&showPopup=0&showSkills=0&showMteKeywords=0&showDepartment=0",
+                            "viewClass": "views.application.PeopleItemView",
+                            "yuiModules": [
+                                "rg.views.application.PeopleItemView"
+                            ],
+                            "stylesheets": [],
+                            "_isYUI": true
+                        },
+                        {
+                            "data": {
+                                "displayName": "Yuanyuan Shi",
+                                "profile": {
+                                    "professionalInstitution": {
+                                        "professionalInstitutionName": "Chinese Academy of Sciences",
+                                        "professionalInstitutionUrl": "institution/Chinese_Academy_of_Sciences"
+                                    }
+                                },
+                                "professionalInstitutionName": "Chinese Academy of Sciences",
+                                "professionalInstitutionUrl": "institution/Chinese_Academy_of_Sciences",
+                                "url": "profile/Yuanyuan_Shi4",
+                                "imageUrl": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+                                "imageSize": "m",
+                                "imageHeight": 50,
+                                "imageWidth": 50,
+                                "imageAlt": "Yuanyuan Shi at Chinese Academy of Sciences",
+                                "enableFollowButton": true,
+                                "enableHideButton": false,
+                                "enableConnectionButton": false,
+                                "followButton": null,
+                                "isClaimedAuthor": true,
+                                "hasExtraContainer": false,
+                                "showStatsWidgets": false,
+                                "statsWidgets": [],
+                                "additionalCssClasses": null,
+                                "contentWidgetsRight": [],
+                                "contentWidgetsMain": [],
+                                "showHideButton": false,
+                                "accountKey": "Yuanyuan_Shi4",
+                                "hasInfoPopup": false,
+                                "showRecommendationInfoOutput": false,
+                                "hasTeaserPopup": true,
+                                "showContactAuthorButton": false,
+                                "widgetId": "rgw14_5c1e23f3e47ab"
+                            },
+                            "clientRenderedOnly": false,
+                            "id": "rgw14_5c1e23f3e47ab",
+                            "partials": [],
+                            "templateName": "application/stubs/PeopleItem.html",
+                            "templateExtensions": [
+                                "generalHelpers"
+                            ],
+                            "attrs": [],
+                            "widgetUrl": "https://www.researchgate.net/application.PeopleAccountItem.html?entityId=5620048&imageSize=m&enableFollowButton=1&showHideButton=0&showConnectionButton=0&showAlreadyFollowingIfAlreadyFollowing=0&popUpPosition=right&popUpPush=10&showPopup=0&showSkills=0&showMteKeywords=0&showDepartment=0",
+                            "viewClass": "views.application.PeopleItemView",
+                            "yuiModules": [
+                                "rg.views.application.PeopleItemView"
+                            ],
+                            "stylesheets": [],
+                            "_isYUI": true
+                        }
+                    ],
+                    "offset": 387,
+                    "loadMoreAction": "https://www.researchgate.net/profilecommon.ProfileFollowersWidget.html?view=dialog&showFollowButton=1&account_key=Chuanhua_Yu2",
+                    "hasMore": false,
+                    "widgetId": "rgw2_5c1e23f3e47ab"
+                },
+                "clientRenderedOnly": false,
+                "id": "rgw2_5c1e23f3e47ab",
+                "partials": [],
+                "templateName": "application/stubs/PeopleList.html",
+                "templateExtensions": [],
+                "attrs": null,
+                "widgetUrl": "https://www.researchgate.net/application.PeopleList.html?title=Followers&totalCount=387&offset=375&containerUrl=https%3A%2F%2Fwww.researchgate.net%2Fprofilecommon.ProfileFollowersWidget.html%3Fview%3Ddialog%26showFollowButton%3D1%26account_key%3DChuanhua_Yu2&showHideButton=0&showInfoPopup=0&showDepartment=0&showConnectionButton=0&showAlreadyFollowingIfAlreadyFollowing=0&hasMore=0&showFollowButton=1",
+                "viewClass": null,
+                "yuiModules": [],
+                "stylesheets": [],
+                "_isYUI": true
+            },
+            "title": "Followers",
+            "totalCount": 387,
+            "hasMore": false,
+            "showMore": true,
+            "loadMoreAction": "https://www.researchgate.net/profilecommon.ProfileFollowersWidget.html?view=dialog&showFollowButton=1&account_key=Chuanhua_Yu2",
+            "loadMoreMethod": "GET",
+            "nextOffset": 400,
+            "page": 1,
+            "seeAllDialogUrl": "https://www.researchgate.net/profilecommon.ProfileFollowersWidget.html?view=dialog&showFollowButton=1&account_key=Chuanhua_Yu2",
+            "specialSeeAllLink": "signup.SignUp.html?ev=su_chnl_prof",
+            "currentPageUrl": "profilecommon.ProfileFollowersWidget.html",
+            "hasSeeAll": true,
+            "listAdditionalHeader": null,
+            "showInviteAction": false,
+            "inviteDialogUrl": "invitations.InviteColleaguesDialog.html",
+            "showSeeAll": true,
+            "widgetId": "rgw1_5c1e23f3e47ab"
+        },
+        "clientRenderedOnly": false,
+        "id": "rgw1_5c1e23f3e47ab",
+        "partials": {
+            "headerPartial": "application/stubs/partials/peopleListHeader.html",
+            "loadMore": "application/stubs/list_loading_bar.html"
+        },
+        "templateName": "application/stubs/AbstractPeopleListContainerDialog.html",
+        "templateExtensions": [
+            "generalHelpers"
+        ],
+        "attrs": [],
+        "widgetUrl": "https://www.researchgate.net/profilecommon.ProfileFollowersWidget.html?view=dialog&showFollowButton=1&account_key=Chuanhua_Yu2",
+        "viewClass": "views.application.AbstractPeopleListContainerView",
+        "yuiModules": [
+            "rg.views.application.AbstractPeopleListContainerView"
+        ],
+        "stylesheets": [],
+        "_isYUI": true,
+        "pageTitle": "ResearchGate",
+        "pageLayout": {
+            "body": "logged-out",
+            "#main": "",
+            "#content": ""
+        },
+        "state": {}
+    },
+    "errors": [],
+    "requestToken": "aad-MjmZ6TlBGk6201mKUG9EUgbopcsqb8DcSYKxiBJ1IcB3J7+yVDksqFc5Wo4tFuBEaQYqpabCnt+IuV33RaJRFV6oBVdoF3/4JZRm0lOHkzfXtzLg3JoMzbbhRjdjqNzm5NZD8DzMDuNwAjKUNCJxNwEjHzqZJD2Aky0KVA2LOyD0RF+7kvwZs1a8v6CedKj9lsQmV/678li31NtAG9k7V4W3jtQcRjryieqs/Xy4FmL5wxZjECy44CGU1hVIOuoFZnB78KptAS4U4pahPBY=",
+    "exception": null,
+    "tracking": [
+        {
+            "ep": "https://glassmoni.researchgate.net",
+            "data": {
+                "correlationId": "rgreq-3a15ea8f324514ce92f4e0953cc4f6d5",
+                "cfp": "c7c333d36ea48e3e2498383a9f8ff721b0de37d8",
+                "page": "ajax",
+                "fp": "158a8a2967771b7eeb68b40086bdac40aa5422a0",
+                "connectTime": 0,
+                "requestTime": 69,
+                "renderTime": 0,
+                "completeRequestTime": 69,
+                "firstContentTime": 0,
+                "backendTime": 69,
+                "continent": "Asia",
+                "countryCode": "CN"
+            }
+        }
+    ]
+}
