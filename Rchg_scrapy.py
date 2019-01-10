@@ -11,16 +11,7 @@ class researchgate_get():
     def __init__(self):
         self.header = {
             "user-agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1",
-            "cookie":"did=xoYKwaUr5JrZS8IuIIqLwcZOA0AvUdbGn1vIOjL2AJBldxmth2ZT236dmeXsyEMV; \
-                     ptc=RG1.2473307923511623367.1541590117; \
-                     _ga=GA1.2.1962697362.1541590119; \
-                     pl=1vmyYd5OU1095L6XaeiKJ5JCpBlJhwhpolkYgqp0G1dOaBh7iIF551AosdCpPa6Cdn18DH1WgokdHvy0DQAHd0uACgg2IyO1D7hkEmyXUJGlHvkQmHAwOA0sr1E8k0T1; \
-                     _mkto_trk=id:931-FMK-151&token:_mch-researchgate.net-1541592868827-57337; \
-                     __gads=ID=07241de65be85996:T=1544624077:S=ALNI_MaYekYEYaPg_KVoJYR1Y5bH36M_WA; \
-                     _gid=GA1.2.1234619974.1544938140; \
-                     sid=dS6JF8Sa1h50V6eJ4ZoIgcGthFqImd0dK0ODAvbayqmzjvJOVEGrU3aufjqxGLEeY9qvxrEFrXNsKRXLJ7oNjB1bpmW6J9bury66T4P2zkzfy09y3BvSLBpEwRONr8AQ; \
-                     cili=_2_MGU5ZjlkNjQwNDBhMGI0NDI3YmY0NDQ5Mzg0YTUwYzc1ZGM5MGZhNTJmODMyYTM1OGEwZWU0OGY3OTkwY2UyMF8xMTYzMTAwMzsw; \
-                     cirgu=_1_sWFDOOE7vjNyPwUMoIT7BP0B6qCdQPDrn%2FToeyePB%2BUbxXUqIz62NMADGUEsiYqk9ozeFg%3D%3D"
+            "cookie":"cookie"
         }
         # https: // www.researchgate.net / institution / Wuhan_University / members
         # self.url = 'https://www.researchgate.net/institution/Wuhan_University/members'

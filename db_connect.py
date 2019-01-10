@@ -7,10 +7,10 @@ class db_connection():
     def __init__(self):
         self.db_info = {
             "host":"localhost",
-            "account":"researchgate_admin",
-            "password":"researchgate",
+            "account":"user",
+            "password":"passwd",
             "port":3306,
-            "default_db":"researchgate"
+            "default_db":"default_db"
         }
 
     def db_connect(self):
